@@ -1,0 +1,45 @@
+# German (Germany) translations for Clipboard Assist.
+# Copyright (C) 2021 Stephen Luttrell <skluttrell@gmail.com>
+# This file is distributed under the same license as the Clipboard Assist
+# project.
+# Stephen Luttrell <skluttrell@gmail.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Clipboard Assist 0.1b\n"
+"Report-Msgid-Bugs-To: skluttrell@gmail.com\n"
+"POT-Creation-Date: 2021-10-16 10:29-0400\n"
+"PO-Revision-Date: 2021-10-16 11:16-0400\n"
+"Last-Translator: Stephen Luttrell <skluttrell@gmail.com>\n"
+"Language: de_DE\n"
+"Language-Team: Stephen Luttrell <skluttrell@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ClipboardAssist.py:15
+msgid "the clipboard is empty"
+msgstr "die Zwischenablage ist leer"
+
+#: ClipboardAssist.py:18
+msgid "the clipboard contains text"
+msgstr "die Zwischenablage enthält Text"
+
+#: ClipboardAssist.py:20
+msgid "the clipboard contains image data"
+msgstr "die Zwischenablage enthält bilddaten"
+
+#: ClipboardAssist.py:22
+msgid "the clipboard contains a file"
+msgstr "die Zwischenablage enthält eine computerdatei"
+
+#: ClipboardAssist.py:24
+msgid "the clipboard contains unknown data"
+msgstr "die Zwischenablage enthält unbekannte daten"
+
+#: ClipboardAssist.py:27
+msgid "cleared clipboard"
+msgstr "Zwischenablage geleert"
+
